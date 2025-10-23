@@ -1,0 +1,10 @@
+backend
+tests
+scripts
+.git
+.emergent
+node_modules
+*.log
+*.md
+DEPLOYMENT_READY.md
+VERCEL_DEPLOYMENT_FIX.md

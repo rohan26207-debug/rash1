@@ -1,0 +1,3 @@
+com.mpumpcalc.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
